@@ -50,5 +50,5 @@ You can download Xcode from [developer.apple.com/technologies/tools.](https://de
 23. [Gaurav Sharma](https://github.com/Leovaldez42)
 24. [Kamalpreet Kaur](https://github.com/kamal-kaur04)
 25. [Ganjar Gingin Tahyudin](https://github.com/zarszz)
-
+26. [Prantik](https://github.com/YenruoY)
 
